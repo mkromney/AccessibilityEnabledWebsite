@@ -61,27 +61,27 @@ p {
     background-position: center;
 }
 
-.float-left {
+/* .float-left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+/* .float-right {
     float: right;
     margin-left: 25px;
-}
+} */ */
 
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin: 0 auto;
 }
 
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: left;
+    /* float: left; */
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
