@@ -1,19 +1,44 @@
-Maridon Romney's Readme.md
 
-## What I Did ##
+  <a id="README.md"></a> 
+  # Accessibility Add to Company Website
+  <small>Copyright [mkromney](https://github.com/mkromney) on June 28, 2023 see [License](#license) below.</small>
 
-  To begin, I copied several lines of code that alreadey partly worked out for the assignment. 
-  Since the goal was to make the site more accessible, I increased several margins, the padding and changed the color of several elements to make them more legible. I also included "alt="image discriptions" for every image that was included in the site. Each description is meant to describe the image's objects and actions. 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  The only code that I copied or borrowed here was the alt="Image description". I found this here: 
-  [https://www.w3schools.com/tags/att_img_alt.asp]
+  ## Description
+  The code in this repo contains a website with modifications that add accessibility and easier use. Images contain alternative text and the heading titles when clicked lead to their corresponding sections.   
+  
+  Video Link of CLA:
+  https://watch.screencastify.com/v/oZNErNZaTYuP42O4R8Mt
+  
 
-  I did not add alt text to the background image as I believed it fit the description of an "aesthetic only piece" that does not convey necessary information. I made this decision after reading this article: 
-  [http://christianheilmann.com/2009/02/25/so-how-do-you-add-alternative-text-to-background-images/]
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [License](#license)
+  4. [Contribution Guidelines](#contribution)
+  5. [Tests](#tests)
+  6. [Questions](#questions)
+  
+  ## Installation
+  To install this code create a git repository or make a copy of this one and pull the code to a local device. 
+  
+  ## Usage
+  The alt text and added features that have been added to this site are intended to make the website more accessible for all kinds of users.  
 
+  ## License Fineprint
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## What I Could Not Find a Way to Do ##
+  ## Contribution Guidelines
+  Contributions are welcome. Please create an independent branch and go through the customary and polite channels to initiate collaboration. As always, be kind. 
+  
+  ## Tests
+  There are currently no working Jest Tests to run in this code. To test this code run the node index.js command line and follow the prompts. For additional testing please contact me. 
 
-  I struggled to change the parent code governing the bottom three elements and their images. I meant to change the images to white by reversing values, I couldn't find a way to do this. 
+  ## Questions
+  <small>For additional questions or comments you can reach me here:</small>
 
-  I also struggled to make the initial [.header div ul li] list more acessible by moving the lements v 
+  - GitHub: [mkromney](https://github.com/mkromney)
+  - Email: [mkromney@gmail.com](mailto:mkromney@gmail.com)
+
+  
